@@ -1,14 +1,15 @@
 
+
 <div align="center">
 
-	<h1>Faiz Akbar Parinduri</h1>
+<h1>Faiz Akbar Parinduri</h1>
 
-	<p style="max-width:720px">Hardware engineer focused on embedded systems, sensor interfaces, and signal processing — building reliable firmware and hardware for medical and acoustic applications.</p>
+<p style="max-width:720px">Hardware engineer focused on embedded systems, sensor interfaces, and signal processing — building reliable firmware and hardware for medical and acoustic applications.</p>
 
-	<p>
-		<a href="https://github.com/toomuchmarlboro"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-toomuchmarlboro-181717?style=flat-square&logo=github&logoColor=white"></a>
-		<a href="https://linkedin.com/in/faparinduri"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-faparinduri-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
-	</p>
+<p>
+  <a href="https://github.com/toomuchmarlboro"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-toomuchmarlboro-181717?style=flat-square&logo=github&logoColor=white"></a>
+  <a href="https://linkedin.com/in/faparinduri"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-faparinduri-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
+</p>
 
 </div>
 
